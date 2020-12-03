@@ -5,7 +5,7 @@ This project creates a classification model in Machine Learning capable of recog
 
 Getting Started
 
-This project uses the CK+ dataset containing 8 classes of facial expressions encoded as {0=neutral, 1=anger, 2=contempt, 3=disgust, 4=fear, 5=happy, 6=sadness, 7=surprise}.
+This project uses YOLO with Darknet framwork using a COCO database containing 80 Object classes
 
 Prerequisites
 
